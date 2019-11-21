@@ -5,7 +5,7 @@
 This repository includes an `index.html` file that loads an `index.js` file.
 
 ```js
-const imgUrl = "https://dog.ceo/api/breeds/image/random/4"
+const imgUrl = 
 ```
 
 Add JavaScript so that:
